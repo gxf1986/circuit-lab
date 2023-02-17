@@ -7,6 +7,6 @@
     "express": "3.x",
     "jade": "0.35.x",
     "request": "2.27.x",
-    "canvas": "1.1.0"
+    "canvas": "1.6.13"
   }
 }
